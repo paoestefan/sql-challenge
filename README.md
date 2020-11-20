@@ -7,4 +7,5 @@ I continued by saving this creation file as "Table_schemata.sql" into my local r
 My next step was to star a new query tool, where I starting making the queries. This file I named it as "Queries.sql"
 I solved one by one, having some troubles when I had to make one table with 3. But I solved it re-watching the lessons & making some google-investigation.
 
-I read about the bonus, but for now I am not able to solved so I did not solved it.
+I read about the bonus & with a lot of complication I try to solved it at the end. You can find the jupyter notebook attached. 
+
